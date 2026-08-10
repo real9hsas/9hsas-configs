@@ -15,7 +15,8 @@ cp acsii.txt
 
 sudo pacman -Sy --noconfirm fastfetch fish kitty hyfetch
 
-cd ..
-cd ..
+cd $HOME
+
+clear
 
 fish
