@@ -11,7 +11,7 @@ cp -a fastfetch $HOME/.config
 cp -a fish $HOME/.config
 cp -a kitty $HOME/.config
 cp hyfetch.json $HOME/.config
-cp acsii.txt
+cp acsii.txt $HOME
 
 sudo pacman -Sy --noconfirm fastfetch fish kitty hyfetch
 
