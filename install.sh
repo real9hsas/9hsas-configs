@@ -1,4 +1,4 @@
-sudo pacman -Sy --noconfirm git
+sudo pacman -Sy --noconfirm git hyfetch fastfetch fish
 
 git clone https://github.com/real9hsas/9hsas-configs
 
